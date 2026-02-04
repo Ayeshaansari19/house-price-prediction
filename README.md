@@ -35,4 +35,4 @@ These metrics were used to measure prediction accuracy and model reliability.
 The regression model successfully predicts house prices with reasonable accuracy and demonstrates the application of machine learning techniques for real-world data analysis problems.
 
 ## Author
-Ayesha
+Saniya Parveen
